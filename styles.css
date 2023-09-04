@@ -2,3 +2,30 @@ img {
             height: 250px;
             width: auto;
         }
+ul, div {
+    font-size: 19px;
+}
+div {
+    padding-right: 500px;
+}
+* {
+    font-family: monospace;
+    margin-left: 10px;
+}
+ul.div li {
+    margin-bottom: 10px;
+}
+.some {
+    font-size: 23px;
+    font-weight:bold;
+    margin-top: 20px;
+}
+h1 {
+    font-size: 27px;
+}
+h2 {
+    font-size: 23px;
+}
+ul {
+    margin-left: -3px;
+}
